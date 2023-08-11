@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/carousel-react/static/css/main.89b84900.css",
-    "main.js": "/carousel-react/static/js/main.84fb90ff.js",
+    "main.css": "/carousel-react/static/css/main.aad71058.css",
+    "main.js": "/carousel-react/static/js/main.69887779.js",
     "static/js/787.77fb1286.chunk.js": "/carousel-react/static/js/787.77fb1286.chunk.js",
     "static/media/1.jpg": "/carousel-react/static/media/1.4a94542bd0d2a0503b51.jpg",
     "static/media/4.jpg": "/carousel-react/static/media/4.0a8e11fbf203037b10a3.jpg",
@@ -11,12 +11,12 @@
     "static/media/6.jpg": "/carousel-react/static/media/6.3c43164f635568a36ead.jpg",
     "static/media/concrete_seamless.png": "/carousel-react/static/media/concrete_seamless.8345bd9063bc6f473447.png",
     "index.html": "/carousel-react/index.html",
-    "main.89b84900.css.map": "/carousel-react/static/css/main.89b84900.css.map",
-    "main.84fb90ff.js.map": "/carousel-react/static/js/main.84fb90ff.js.map",
+    "main.aad71058.css.map": "/carousel-react/static/css/main.aad71058.css.map",
+    "main.69887779.js.map": "/carousel-react/static/js/main.69887779.js.map",
     "787.77fb1286.chunk.js.map": "/carousel-react/static/js/787.77fb1286.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b84900.css",
-    "static/js/main.84fb90ff.js"
+    "static/css/main.aad71058.css",
+    "static/js/main.69887779.js"
   ]
 }
